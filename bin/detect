@@ -3,4 +3,4 @@
 
 # Nothing is required
 
-echo "Static"
+echo "Static" && exit 0
